@@ -14,6 +14,8 @@
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!--Jupyter-->
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <br/>
   
   ### Library
@@ -24,8 +26,8 @@
   <br/>
 
   ### etc.
-  <!--Tableau-->
-  <img src="https://blog.kakaocdn.net/dn/EVohs/btsIGucFgBv/bFyWZegL2mJwYj2Au3g6cK/img.png?style=flat-square&logo=Selenium&logoColor=white"/>
+  <!--Notion-->
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
   
 </div>
 
