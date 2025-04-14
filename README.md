@@ -4,13 +4,13 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a yeeun hwang from South Korea.<br/>
+  #### :raising_hand: I am a yeeun hwang. I am learning about data analysis, ML, and AI.<br/>
   #### :fire: I aim to become a  Data Analyst & Data Scientist.<br/>
   #### :mortar_board: AI Big Data & Management(major) · Data Science(double major), Kookmin University(KMU)
   <br/>
   <br/>
   
-  ## 🧱 Tech Stack
+  ## :computer: Tech Stack
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -43,6 +43,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+  <br/>
+  <br/>
+
+  ## :scroll: Certification
+  - SQLD
+  - ADsP
   
 </div>
 
