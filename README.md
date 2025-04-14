@@ -4,9 +4,9 @@
   <!--Body-->
   
   ## 👀 About Me
-  #### :raising_hand: I am a Data Analyst & Data Scientist from South Korea.<br/>
-  #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: Bachelor of Applied Artificial Intelligence, Sungkyunkwan University(SKKU)
+  #### :raising_hand: I am a yeeun hwang from South Korea.<br/>
+  #### :fire: I aim to become a  Data Analyst & Data Scientist.<br/>
+  #### :mortar_board: AI Big Data & Management(major) · Data Science(double major), Kookmin University(KMU)
   <br/>
   <br/>
   
@@ -23,11 +23,6 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   <br/>
   
-  
-  ## 🤔 Github Stats
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiyu-Kim)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
