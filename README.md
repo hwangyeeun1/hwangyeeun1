@@ -50,7 +50,7 @@
   <br/>
   <br/>
 
-  ## :scroll: Certification
+  ## :scroll: Certificate
   - SQLD
   - ADsP
   
