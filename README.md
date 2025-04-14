@@ -1,9 +1,5 @@
-## Hi there 👋
-<br/>
-<br/>
-
 <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="YeonJin's GitHub">
+      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=YeonJin's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="YeEun's GitHub">
     </div>
   <br/>
   <br/>
