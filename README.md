@@ -22,7 +22,7 @@
   <!--Jupyter-->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
   <!--VScode-->
-  <img src="https://img.shields.io/badge/VScode-#003E95?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VScode-#003E95?style=flat-square&Color=white"/>
    <br/>
   
   ### Library
