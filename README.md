@@ -74,6 +74,7 @@
 
   ### :information_desk_person: supporters
   - 네이버클라우드 서포터즈 2기 (2024.11~2025.01) <br/>
+  <br/>
 
   ## :scroll: Certificates
   - 2023.10.06 ~ : SQLD (한국데이터산업진흥원)
