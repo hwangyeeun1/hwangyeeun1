@@ -57,7 +57,7 @@
   <br/>
 
   ## :sparkles: External Activities
-  ### academic club
+  ### :pencil2: academic club
   #### D&A 학회(Data&Analysis)
   - Basic Session (2023.03~2023.06)
   - ML Session (2023.09~2023.12)
@@ -69,7 +69,9 @@
   - 데이터전처리적용반 (2024.02~2023.08)
   <br/>
 
-  ### academic club
+  ### :information_desk_person: supporters
+  - 네이버클라우드 서포터즈 2기 (2024.11~2025.01)
+  <br/>
   
 </div>
 
