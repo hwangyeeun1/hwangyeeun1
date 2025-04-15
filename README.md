@@ -50,7 +50,7 @@
   <br/>
   <br/>
 
-  ## :scroll: Certificateㄴ
+  ## :scroll: Certificates
   - 2023.10.06 ~ : SQLD (한국데이터산업진흥원)
   - 2024.06.07 ~ : ADsP (한국데이터산업진흥원)
   <br/>
