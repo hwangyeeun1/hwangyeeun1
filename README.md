@@ -73,7 +73,7 @@
   <br/>
 
   ### :information_desk_person: supporters
-  - 네이버클라우드 서포터즈 2기 (2024.11~2025.01) <br/>
+  - 네이버클라우드 서포터즈 2기 (2024.11~2025.01)
   <br/>
 
   ## :scroll: Certificates
