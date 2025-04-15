@@ -62,12 +62,11 @@
   - Deep Session (2024.03~2024.06)
   - Conference Session (2024.09~2024.12)
   <br/>
-  
   #### BDA 학회((사)한국빅데이터학회 산하 기관)
   - 데이터전처리적용반 (2024.02~2023.08)
   <br/>
 
-  
+
   ### :information_desk_person: supporters
   - 네이버클라우드 서포터즈 2기 (2024.11~2025.01)
   <br/>
