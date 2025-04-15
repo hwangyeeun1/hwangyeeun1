@@ -9,7 +9,7 @@
   
   ## 👀 About Me
   #### :raising_hand: I am a yeeun hwang. I am learning about data analysis, ML, and AI.<br/>
-  #### :fire: I aim to become a  Data Analyst & Data Scientist.<br/>
+  #### :fire: I aim to become a  Data Scientist & AI Engineer.<br/>
   #### :mortar_board: AI Big Data & Management(major) · Data Science(double major), Kookmin University(KMU)
   <br/>
   <br/>
