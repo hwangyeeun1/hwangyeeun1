@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <br/>
 
+
   ## :office: Work Experience
   #### 통일부 전산인턴 (2025.02~)
   - 자연어 처리, 데이터 추출 <br/>
