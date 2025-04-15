@@ -48,9 +48,8 @@
   <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <br/>
+
   <br/>
-
-
 
   ## :office: Work Experience
   #### 통일부 전산인턴 (2025.02~)
@@ -74,8 +73,7 @@
   <br/>
 
   ### :information_desk_person: supporters
-  - 네이버클라우드 서포터즈 2기 (2024.11~2025.01)
-  <br/>
+  - 네이버클라우드 서포터즈 2기 (2024.11~2025.01) <br/>
 
   ## :scroll: Certificates
   - 2023.10.06 ~ : SQLD (한국데이터산업진흥원)
