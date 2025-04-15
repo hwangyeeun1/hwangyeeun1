@@ -49,9 +49,13 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <br/>
 
-  ## :scroll: Certificates
-  - 2023.10.06 ~ : SQLD (한국데이터산업진흥원)
-  - 2024.06.07 ~ : ADsP (한국데이터산업진흥원)
+  ## :office: Work Experience
+  ### 통일부 전산인턴 (2025.02~)
+  - 자연어 처리, 데이터 추출
+  <br/>
+  ### BDA학회 데이터팀 운영진
+  - DB 구축 및 데이터 분석, 대시보드 생성
+  
   <br/>
 
   ## :sparkles: External Activities
@@ -69,6 +73,11 @@
 
   ### :information_desk_person: supporters
   - 네이버클라우드 서포터즈 2기 (2024.11~2025.01)
+  <br/>
+
+  ## :scroll: Certificates
+  - 2023.10.06 ~ : SQLD (한국데이터산업진흥원)
+  - 2024.06.07 ~ : ADsP (한국데이터산업진흥원)
   <br/>
   
 </div>
