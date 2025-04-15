@@ -50,9 +50,26 @@
   <br/>
   <br/>
 
-  ## :scroll: Certificate
-  - SQLD
-  - ADsP
+  ## :scroll: Certificateㄴ
+  - 2023.10.06 ~ : SQLD (한국데이터산업진흥원)
+  - 2024.06.07 ~ : ADsP (한국데이터산업진흥원)
+  <br/>
+  <br/>
+
+  ## :sparkles: External Activities
+  ### academic club
+  #### D&A 학회(Data&Analysis)
+  - Basic Session (2023.03~2023.06)
+  - ML Session (2023.09~2023.12)
+  - Deep Session (2024.03~2024.06)
+  - Conference Session (2024.09~2024.12)
+  <br/>
+
+  #### BDA 학회((사)한국빅데이터학회 산하 기관)
+  - 데이터전처리적용반 (2024.02~2023.08)
+  <br/>
+
+  ### academic club
   
 </div>
 
