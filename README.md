@@ -15,7 +15,6 @@
   <br/>
   
   ## :computer: Tech Stack
-  ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
@@ -24,10 +23,13 @@
   <br/>
 
   ## :office: Work Experience
-  **통일부 전산인턴** (2025.02~)
+  **통일부 전산인턴** (2025.02~2025.06)
   - 자연어 처리, 데이터 추출 <br/>
+
+  **dcamp IT팀 인턴** (2025.07~)
+  - 업무 자동화 플로우 구축 <br/>
   
-  **BDA학회 데이터팀 운영진** (2025.02~)
+  **BDA학회 데이터팀 운영진** (2025.02~2025.08)
   - DB 구축 및 데이터 분석, 대시보드 생성
   
   <br/>
