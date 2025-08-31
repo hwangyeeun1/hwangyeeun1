@@ -18,35 +18,7 @@
   ### Language
   <!--Python-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br/>
 
-  ### IDE
-  <!--Jupyter-->
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-  <!--VScode-->
-  <img src="https://img.shields.io/badge/VScode-009FD9?style=flat-square&logo=VScode&logoColor=white"/>
-   <br/>
-  
-  ### Library
-  <!--PyTorch-->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-  <!--Selenium-->
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
-  <!--Numpy-->
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/>
-  <!--Pandas-->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/>
-  <br/>
-
-  ### Cowork Tools
-  <!--Notion-->
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  <!--GitHub-->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  <!--Slack-->
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   
   <br/>
   <br/>
